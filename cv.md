@@ -42,8 +42,8 @@ HTML5, CSS3, JS, Git, Microsoft Office.
   I don't have any experience in commercial development, but i'm learning to get to my goal.
 
 ### **Education**
-  Belarusian National Technical University
+  Belarusian National Technical University. Faculty of Mechanics and Technology
 
  *Courses*:
-  HTML Academy. HTML5&CSS3 Basics,
+  HTML Academy. HTML5&CSS3 Basics, HTML basics, CSS basics, programming on JavaScript
   RS School. JS / FRONT-END (РУС) from 02.02.2020
