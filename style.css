@@ -1,0 +1,10 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    width: 1200px;
+    text-align: center;
+}
+
+.block li {
+    text-align: center;
+}
